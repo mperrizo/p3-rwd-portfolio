@@ -10,6 +10,17 @@ YOUR STYLES
 @import url('nav-multi-level.css');
 
 
+.footer-area {
+  text-align: center;
+  font-size: .75em;
+  letter-spacing: 1px;
+  margin: auto;
+  padding: 1em;
+	color: white;
+  background: gray;
+}
+
+
 .lg-backdrop {
     bg-color: purple;
 }
@@ -18,6 +29,7 @@ YOUR STYLES
     border-radius: 4px;
     box shadow: 0 0 8px white;
 }
+
 /********************
 MEDIA QUERIES
 *******************/
